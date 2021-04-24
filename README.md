@@ -12,16 +12,7 @@
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### 📊 GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/meroyial">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=adem68&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adem68&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<!--END_SECTION:w
 
 ### 🤝🏻 Social
 
