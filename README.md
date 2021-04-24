@@ -20,8 +20,8 @@
 
 <p align="center">
 <a href="https://github.com/Adem68">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=adem68&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="adem68"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adem68&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="adem68"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=adem68&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adem68&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -36,4 +36,4 @@
 
 ### 🎧 Now Playing
 
-[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/rtk27qtnufio0nrl4o4s423la)
+[<p align="center"> <img src="https://open.spotify.com/user/rtk27qtnufio0nrl4o4s423la" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/rtk27qtnufio0nrl4o4s423la)
